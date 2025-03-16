@@ -26,5 +26,6 @@ São Bernardo do Campo, São Paulo.
 ## 📬 Entre em contato
 
 - Email: joaovitor.sg@outlook.com.br
-- LinkedIn: (https://www.linkedin.com/in/joaovitorsgomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorsgomes/)
+
 
