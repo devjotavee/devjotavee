@@ -2,9 +2,6 @@
 
 ### Sou estudante de **Análise e Desenvolvimento de Sistemas**, sempre em busca de novos desafios para aprimorar minhas habilidades. Tenho experiência com **Java** e **JavaScript**, e estou constantemente me atualizando com as últimas tecnologias e boas práticas do mercado. Tenho paixão por aprender e aplicar meus conhecimentos para criar soluções inovadoras e impactantes.
 
-## 📍 Localização
-São Bernardo do Campo, São Paulo.
-
 ![jotave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjotavee&show_icons=true&theme=onedark)
 
 ### 🤖 Linguagens e Tecnologias
@@ -22,6 +19,9 @@ São Bernardo do Campo, São Paulo.
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjotavee/devjotavee/output/github-contribution-grid-snake-dark.svg">
  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devjotavee/devjotavee/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 📍 Localização
+São Bernardo do Campo, São Paulo.
 
 ## 📬 Entre em contato
 
