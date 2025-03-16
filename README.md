@@ -2,6 +2,9 @@
 
 ### Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Tenho experiência com **Java** e **JavaScript**. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
+## 📍 Localização
+[São Bernardo do Campo, São Paulo.]
+
 
 ![jotave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjotavee&show_icons=true&theme=onedark)
 
